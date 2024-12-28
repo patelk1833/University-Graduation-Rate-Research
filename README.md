@@ -45,7 +45,14 @@ This project provided a thorough investigation into Wentworth Institute of Techn
 - **Problem-Solving**  
 
 ## Repository
-  
+
+All project files, including formal research documents, survey data, and presentations, are organized in the project repository:
+
+- **[Formal Research Proposal: MGMT2200 - Formal Research Proposal.pdf](https://github.com/patelk1833/University-Graduation-Rate-Research/blob/main/Formal_Research_Proposal.pdf)**: A proposal outlining the research goals, methodology, and objectives.  
+- **[Final Report: MGMT2200_Group5_Final Report.pdf](https://github.com/patelk1833/University-Graduation-Rate-Research/blob/main/Research_Final%20Report.pdf)**: The comprehensive report detailing findings, analysis, and recommendations.  
+- **[Presentations: Presentation.pdf](https://github.com/patelk1833/University-Graduation-Rate-Research/blob/main/Research_Presentation.pdf)**: A concise presentation summarizing key findings and solutions.  
+- **[Survey Responses: Survey_responses_stored.xlsx](https://github.com/patelk1833/University-Graduation-Rate-Research/blob/main/Survey_responses_stored.xlsx)**: Collected survey data used for analysis.  
+
 
 
 
